@@ -1,3 +1,9 @@
+# requirement: 
+# the data "household_power_consumption.txt" should be unzpipped and placed in the same 
+# directory as this source code
+# the working directory should be the same where this source code is saved
+
+
 # read the raw data
 # once, read the 1st and 2nd columns as character
 # the character "?" is revalued as NA
