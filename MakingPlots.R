@@ -65,6 +65,6 @@ plot(data2$DateTime, data2$Voltage, type="l"
      , xlab="datetime", ylab="Voltage")
 # bottom left
 plot(data2$DateTime, data2$Global_reactive_power, type="l"
-     , xlab="datetime")
+     , xlab="datetime", ylab="Global_reactive_power")
 dev.off()
 
